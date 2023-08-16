@@ -24,7 +24,7 @@ $ETAPAS.querySelectorAll(".etapas__item").forEach(element => {
 let datos;
 
 // Obtener datos del archivo JSON
-fetch('https://drive.google.com/uc?export=download&id=1Q3jbDWarTflcEDPJEJF_NP9SlpENQE3_')
+fetch('https://github.com/TuttoPerez/bd/tree/master/DB')
     .then(response => response.json())
     .then(data => {
         datos = data;
