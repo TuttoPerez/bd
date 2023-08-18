@@ -15,8 +15,8 @@
             "Aporta <b>vitamina E, B1, B2 y minerales como el hierro, calcio, zinc, fósforo, potasio y magnesio</b>"
         ],
         "imagen": "ItemPic_11503_Nuevo.jpg",
-    
-        "precio_xMenor": "$123.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$125.700"
     },
     "Latte": {
         "nombre": "LatteRico",
@@ -32,8 +32,8 @@
             "Reduce la <b>hipertensión arterial</b>"
         ],
         "imagen": "ItemPic_11509_Nuevo.jpg",
-       
-        "precio_xMenor": "$123.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$125.700"
     },
     "3_en_1": {
         "nombre": "Ganocafe 3 en 1",
@@ -51,8 +51,8 @@
             "Combate los <b>mareos y fatiga</b>"
         ],
         "imagen": "ItemPic_11501.jpg",
-        
-        "precio_xMenor": "$115.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$115.000"
     },
     "Chocolate": {
         "nombre": "Gano Schokolade",
@@ -70,8 +70,8 @@
             "Ayuda al <b>estado animico</b> en periodo <b>pre-menstrual</b>"
         ],
         "imagen": "ItemPic_11502.jpg",
-        
-        "precio_xMenor": "$123.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$125.000"
     },
     "Te": {
         "nombre": "Oleaf Gano Rooibos Drink",
@@ -88,8 +88,8 @@
             "Reduce los niveles de <b>grucosa</b>"
         ],
         "imagen": "ItemPic_11504.jpg",
-        
-        "precio_xMenor": "$123.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$125.000"
     },
     "Tinto": {
         "nombre": "Ganocafe Classic",
@@ -107,8 +107,8 @@
             "Efectivo contra la <b>diabetes</b>"
         ],
         "imagen": "ItemPic_11505.jpg",
-        
-        "precio_xMenor": "$115.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$115.000"
     },
     "Cereal": {
         "nombre": "Gano C`Real Spirulina",
@@ -125,8 +125,8 @@
             "Contiene vitaminas <b>A, K y vitaminas del complejo B</b>"
         ],
         "imagen": "ItemPic_11507.jpg",
-        
-        "precio_xMenor": "$123.700"
+        "precio_xMayor": "",
+        "precio_xMenor": "$125.000"
     },
     "Crema_dental": {
         "nombre": "Gano Fresh Toothpaste",
@@ -144,8 +144,8 @@
             "Efectivo para trabajar <b>quemaduras en la piel</b>"
         ],
         "imagen": "ItemPic_11302.jpg",
-       
-        "precio_xMenor": "$79.800"
+        "precio_xMayor": "",
+        "precio_xMenor": "$78.000"
     },
     "Jabon": {
         "nombre": "Gano Transparent Soap",
@@ -163,8 +163,8 @@
             "Trata eficientemente la <b>icitiosos congénita, vitiligo y eczemas</b>"
         ],
         "imagen": "ItemPic_11303.jpg",
-        
-        "precio_xMenor": "$87.800"
+        "precio_xMayor": "",
+        "precio_xMenor": "$88.000"
     },
     "Shampoo": {
         "nombre": "Piel&Brillo Shampoo",
@@ -182,8 +182,8 @@
             "<b>No contiene sal</b>"
         ],
         "imagen": "ItemPic_11305.jpg",
-        
-        "precio_xMenor": "$83.800"
+        "precio_xMayor": "",
+        "precio_xMenor": "$84.000"
     },
     "Acondicionador": {
         "nombre": "Piel&Brillo Acondicionador",
@@ -201,8 +201,8 @@
             "<b>No contiene sal</b>"
         ],
         "imagen": "ItemPic_11306.jpg",
-        
-        "precio_xMenor": "$83.800"
+        "precio_xMayor": "",
+        "precio_xMenor": "$84.000"
     },
     "Exfoliante": {
         "nombre": "Piel&Brillo Exfoliante Corporal",
@@ -220,8 +220,8 @@
             "Aumenta <b>firmeza y elasticidad de la piel</b>"
         ],
         "imagen": "ItemPic_11307.jpg",
-        
-        "precio_xMenor": "$83.800"
+        "precio_xMayor": "",
+        "precio_xMenor": "$84.000"
     },
     "Ganoderma": {
         "nombre": "Ganoderma Capsulas",
@@ -239,8 +239,8 @@
             "Previene y combate de <b>artritis reumatoide</b>"
         ],
         "imagen": "ItemPic_11801.jpg",
-        
-        "precio_xMenor": "$279.300"
+        "precio_xMayor": "",
+        "precio_xMenor": "$300.000"
     },
     "Excellium": {
         "nombre": "Excellium Capsulas",
@@ -256,7 +256,7 @@
         ],
         "imagen": "ItemPic_11803.jpg",
         "precio_xMayor": "",
-        "precio_xMenor": "$279.300"
+        "precio_xMenor": "$300.000"
     },
     "CordyGold": {
         "nombre": "CordyGold Capsulas",
@@ -274,7 +274,7 @@
             "Estimula la <b>memoria</b>"
         ],
         "imagen": "ItemPic_11805.jpg",
-       
-        "precio_xMenor": "$351.100"
+        "precio_xMayor": "",
+        "precio_xMenor": "$378.000"
     }
 }
